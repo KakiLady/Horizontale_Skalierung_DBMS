@@ -1,0 +1,2 @@
+# Horizontale_Skalierung_DBMS
+Repo zu meiner Bachelorarbeit Horizontale Skalierungsmöglichkeiten für verteilte Datenbanksysteme für CLoudanwendungen
