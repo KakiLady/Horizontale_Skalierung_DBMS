@@ -1,0 +1,20 @@
+{
+    "type": "inproceedings",
+    "author": [
+      "Jörn Kuhlenkamp",
+      "Markus Klems",
+      "Oliver Röss"
+    ],
+    "doi": "10.14778/2732977.2732995",
+    "issn": "21508097",
+    "issue": "12",
+    "booktitle": "Proceedings of the VLDB Endowment",
+    "title": "Benchmarking scalability and elasticity of distributed database systems",
+    "volume": "7",
+    "url": "http://www.vldb.org/pvldb/vol7/p1219-klems.pdf",
+    "year": 2014
+  }
+
+  
+
+  
